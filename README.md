@@ -35,4 +35,4 @@ The libraries used for this project to implement are :
 
 --> We later see the content via WordCloud for simplicity
 
---> For taining the dataset i used one vs the rest classifier and KNeighborsClassifier.
+--> For taining the dataset I have used one vs the rest classifier and KNeighborsClassifier.
